@@ -17,8 +17,6 @@ namespace GestLaboMach
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ResultatForm());
 
-
-
         }
     }
 }

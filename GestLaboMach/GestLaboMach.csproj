@@ -77,6 +77,8 @@
     <Compile Include="labo\dao\App_dossierDAO.cs" />
     <Compile Include="labo\dao\App_dossier_dtDAO.cs" />
     <Compile Include="labo\modele\ActionModele.cs" />
+    <Compile Include="labo\modele\ASTMMessage.cs" />
+    <Compile Include="labo\modele\ASTMParser.cs" />
     <Compile Include="labo\modele\SYS_LOG_Modele.cs" />
     <Compile Include="labo\Outils\Crypter_MD5.cs" />
     <Compile Include="labo\Outils\Fonctions_Date.cs" />
